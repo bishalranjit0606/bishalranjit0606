@@ -11,7 +11,7 @@
 ## 🛠️ My Tech Stack :
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,python,bash,linux,git,github,vscode,html,css,javascript,nodejs,npm,express,mongodb,mysql,nginx,terraform" />
+<img height="80" src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,python,bash,linux,git,github,vscode,html,css,javascript,nodejs,npm,express,mongodb,mysql,nginx,terraform" />
 </p>
 
 
