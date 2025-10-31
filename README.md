@@ -24,7 +24,11 @@
 </a>
 <a href="mailto:bishalranjitofficial@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-</a> <br>
+</a>
+<a href="https://bishalranjitkar.tech" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-9933FF?style=for-the-badge&logoColor=white" />
+</a>
+<br>
 <img src="https://www.gifcen.com/wp-content/uploads/2022/09/png-gif-3.gif" width="150" alt="Bishal Ranjitkar Animated Portrait">
 </p>
 
