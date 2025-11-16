@@ -10,7 +10,12 @@
 
 ## 🛠️ My Tech Stack :
 
-<p align="left"> <img height="120" src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,gitlab,githubactions,terraform,ansible,python,bash,linux,git,prometheus,grafana,nginx" /> </p>
+<p align="left">
+<img height="120" src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,gitlab,githubactions,terraform,ansible" />
+</p>
+<p align="left">
+<img height="120" src="https://skillicons.dev/icons?i=python,bash,linux,git,prometheus,grafana,nginx" />
+</p>
 
 
 
