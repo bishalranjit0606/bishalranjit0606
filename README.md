@@ -8,18 +8,18 @@
 
 
 
-## 🛠️ My Tech Stack :
+## My Tech Stack :
 
-<p align="center">
+<p align="left">
 <img height="120" src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,gitlab,githubactions,terraform,ansible" />
 </p>
-<p align="center">
+<p align="left">
 <img height="120" src="https://skillicons.dev/icons?i=python,bash,linux,git,prometheus,grafana,nginx" />
 </p>
 
 
 
-## 📬 Connect With Me
+## Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/bishalranjit0606" target="_blank">
