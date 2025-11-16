@@ -10,9 +10,7 @@
 
 ## 🛠️ My Tech Stack :
 
-<p align="left">
-<img height="80" src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,python,bash,linux,git,github,vscode,html,css,javascript,nodejs,npm,express,mongodb,mysql,nginx,terraform" />
-</p>
+<p align="left"> <img height="120" src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,gitlab,githubactions,terraform,ansible,python,bash,linux,git,prometheus,grafana,nginx" /> </p>
 
 
 
