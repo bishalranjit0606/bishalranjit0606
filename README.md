@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Bishal Ranjitkar!</h1>
-<h3 align="center">DevOps & Automation Engineer | AWS Certified Solutions Architect </h3>
+<h3 align="center">AI Automation Engineer | AWS Certified Solutions Architect </h3>
 <p align="center">Kathmandu, Nepal</p>
 
 
